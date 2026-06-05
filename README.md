@@ -75,6 +75,6 @@ npm start
 ```
 ## 👨‍💻 Author
 
-**Your Name**
+**Ishwinder Kaur**
 - GitHub: [@ishwinderkaurgill](https://github.com/ishwinderkaurgill)
 - LinkedIn: [ishwinder-kaur-gill-78b498232](https://linkedin.com/in/ishwinder-kaur-gill-78b498232)
