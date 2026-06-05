@@ -54,7 +54,7 @@ A RESTful API for managing your personal movie watchlist. Built with Node.js, Ex
 
 ```bash
 # Clone the repository
-git clone https://github.com/ishwinderkaurgill/movie-manager-api.git
+git clone https://github.com/ishwinderkaurgill/Personal-Movie-Watchlist-API.git
 cd movie-manager-api
 
 # Install dependencies
