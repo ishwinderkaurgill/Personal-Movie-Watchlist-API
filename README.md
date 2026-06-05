@@ -60,9 +60,21 @@ cd movie-manager-api
 # Install dependencies
 npm install
 
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express](https://img.shields.io/badge/Express-4.x-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.x-brightgreen)
+![Mongoose](https://img.shields.io/badge/Mongoose-7.x-red)
+
 # Create environment file
 echo "MONGO_URI=your_mongodb_connection_string" > .env
 echo "PORT=5000" >> .env
 
 # Start the server
 npm start
+
+```
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [@ishwinderkaurgill](https://github.com/ishwinderkaurgill)
+- LinkedIn: [ishwinder-kaur-gill-78b498232](https://linkedin.com/in/ishwinder-kaur-gill-78b498232)
