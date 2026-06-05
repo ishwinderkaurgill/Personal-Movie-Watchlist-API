@@ -58,12 +58,7 @@ git clone https://github.com/ishwinderkaurgill/Personal-Movie-Watchlist-API.git
 cd movie-manager-api
 
 # Install dependencies
-npm install
-
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
-![Express](https://img.shields.io/badge/Express-4.x-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.x-brightgreen)
-![Mongoose](https://img.shields.io/badge/Mongoose-7.x-red)
+npm install mongodb nodemon express dotenv
 
 # Create environment file
 echo "MONGO_URI=your_mongodb_connection_string" > .env
