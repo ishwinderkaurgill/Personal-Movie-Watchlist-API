@@ -44,7 +44,6 @@ A RESTful API for managing your personal movie watchlist. Built with Node.js, Ex
 | PATCH | `/movies/:id/rate` | Update only the rating |
 | DELETE | `/movies/:id` | Delete a movie |
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
